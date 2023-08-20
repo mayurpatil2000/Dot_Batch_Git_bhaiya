@@ -1,0 +1,8 @@
+git init
+Create Repo on github
+cretae README.md
+git remote add origin URL 
+git config --global user.name "mayurpatil2000"
+git config --global user.email "mayurpatil65953@gmail.com"
+git config --list
+git push -u origin master
